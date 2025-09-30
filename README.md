@@ -42,13 +42,34 @@ Automated flows include:
 - 💻 Send **approval request to IT** for laptop provisioning  
 - 🔄 Update **status** upon task completion  
 
-### 4. Copilot Studio – HR Chatbot
-- Embedded in **SharePoint HR Portal**  
-- Responds to FAQs such as:  
-  - “How do I apply for leave?”  
-  - “What’s the dress code?”  
-  - “Where can I find company policies?”  
-- Pulls answers dynamically from the **SharePoint Knowledge Base**
+---
+
+## 🏁 Onboarding Scenario
+
+1. HR adds the employee to the **Onboarding List**.  
+2. A **welcome email** and **onboarding form** are sent to the employee.  
+3. Once the form is submitted, the **onboarding status** is updated to **Completed**.  
+4. The employee is then added to the **Employee Master List** and **Teams channel**.  
+5. A request is automatically generated for **laptop provisioning** by the IT team.  
+6. A **folder** is created for the employee.  
+7. **Onboarding process completed.**
+
+---
+
+## ✅ Task Tracker Flow
+
+1. Add task to the **Task Tracker List** and assign it to the employee (manual step).  
+2. Employee receives an **email notification** when a task is assigned.  
+3. **Reminder email** is sent on the task submission date.  
+4. Upon task completion, **status is updated**; both manager and employee receive an email notification.
+
+---
+
+## 📝 Employee Offer Letter Flow
+
+1. Employee uploads the **signed offer letter** to the **Offer Letter Library**.  
+2. The offer letter is sent for **approval to HR**.  
+3. Once approved, a **copy of the offer letter is sent** to the employee via email.
 
 ---
 
