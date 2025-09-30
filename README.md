@@ -1,4 +1,4 @@
-# Automating-Employee-Onboarding-Process-M365
+# Automating Employee Onboarding Process M365
 🚀 Case Study: Automating Employee Onboarding Process
 
 This project showcases how to streamline and digitize the employee onboarding process using the Microsoft 365 ecosystem.
